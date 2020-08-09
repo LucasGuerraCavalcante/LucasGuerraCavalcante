@@ -7,7 +7,8 @@
 
 I'm Lucas, Computer Science student from Brasília, Brazil.
 
-Programming beginner, focused on improving myself every day. Currently studying hard TypeScript, Node.Js, and React.
+Programming beginner, focused on improving myself every day. 
+Currently studying hard TypeScript, Node.Js, and React.
 
 So far during my journey... 🏃 
 
