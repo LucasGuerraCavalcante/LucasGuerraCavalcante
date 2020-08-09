@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin: lucasguerra](https://img.shields.io/badge/-lucasguerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-guerra-cavalcante-77703b193/)](https://www.linkedin.com/in/lucas-guerra-cavalcante-77703b193/)
+[![Linkedin: lucasguerra](https://img.shields.io/github/followers/LucasGuerraCavalcante?style=social)](https://github.com/LucasGuerraCavalcante)
+
 <!--
 **LucasGuerraCavalcante/LucasGuerraCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
