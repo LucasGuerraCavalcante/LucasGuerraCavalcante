@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Linkedin: thaianebraga](https://img.shields.io/badge/-lucasguerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-guerra-cavalcante)
 <!--
 **LucasGuerraCavalcante/LucasGuerraCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
