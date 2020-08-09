@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Lucas, Computer Science student from Brasília, Brazil.
-
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-guerra-cavalcante-77703b193/)](https://www.linkedin.com/in/lucas-guerra-cavalcante-77703b193/)
 [![Gmail: Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](lucasguerratee@gmail.com?Subject=Hello%20world!)
 [![Github: lucasguerra](https://img.shields.io/github/followers/LucasGuerraCavalcante?style=social)](https://github.com/LucasGuerraCavalcante)
+
+I'm Lucas, Computer Science student from Brasília, Brazil.
 
 Programming beginner, focused on improving myself every day.
 
