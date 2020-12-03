@@ -9,21 +9,20 @@ I'm Lucas, Computer Science student from Brasília, Brazil.
 
 Programming beginner, focused on improving myself every day. 
 
-Currently studying hard TypeScript, Node.Js, and React.
+Currently studying hard TypeScript and Node.Js.
 
-So far during my journey... 🏃 
+So far during my journey... 
 
-> 💼 Intern at Banco do Brasil S.A. ⚙️  Angular, JavaScript and TypeScript (Front-end Development).
+> 💼 Currently -> Intern at Banco do Brasil S.A. ⚙️  Angular, JavaScript and TypeScript (Front-end Development).
  > 
-> 💼 Intern at CNPq ⚙️ Python, R and MySQL.
+> 💼 2019 -> Intern at CNPq ⚙️ Python, R and MySQL.
  > 
-> 💼 Intern at Receita Federal  ⚙️  Technical support.
+> 💼 2018 -> Intern at Receita Federal  ⚙️  Technical support.
  > 
 > 🎓 Computer Science student at UniCEUB.
  > 
 
-And of course, my repositories here on GitHub 👇
-
+And of course, my repositories here on GitHub 
 
 <!--
 **LucasGuerraCavalcante/LucasGuerraCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
