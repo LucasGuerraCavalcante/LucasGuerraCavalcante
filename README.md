@@ -13,7 +13,7 @@ Currently studying hard TypeScript and Node.Js.
 
 So far during my journey... 
 
-> 💼 Currently -> Intern at Banco do Brasil S.A. ⚙️  Angular, JavaScript and TypeScript (Front-end Development).
+> 💼 2020 -> Intern at Banco do Brasil S.A. ⚙️  Angular, JavaScript and TypeScript (Front-end Development).
  > 
 > 💼 2019 -> Intern at CNPq ⚙️ Python, R and MySQL.
  > 
