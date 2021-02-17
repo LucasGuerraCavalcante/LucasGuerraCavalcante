@@ -3,7 +3,7 @@
 [![Gmail: Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](lucasguerratee@gmail.com?Subject=Hello%20world!)
 [![Github: lucasguerra](https://img.shields.io/github/followers/LucasGuerraCavalcante?style=social)](https://github.com/LucasGuerraCavalcante)
 
-### Hi there 👋
+## Hi there 👋
 
 I'm Lucas, Computer Science student from Brasília, Brazil.
 
@@ -24,7 +24,7 @@ So far during my journey...
 
 And of course, my repositories here on GitHub...
 
-### Here some stats
+## Here some stats
 
 ![stats01](https://github-readme-stats.vercel.app/api?username=LucasGuerraCavalcante&hide=contribs,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
