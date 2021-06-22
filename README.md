@@ -28,7 +28,7 @@ And of course, my repositories here on GitHub...
 
 ![stats01](https://github-readme-stats.vercel.app/api?username=LucasGuerraCavalcante&hide=contribs,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-![stats02](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuerraCavalcante&layout=compact&langs_count=10&theme=dark&hide=jupyter%20notebook)
+![stats02](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuerraCavalcante&layout=compact&langs_count=10&theme=dark&hide=jupyter%20notebook,html,css,scss)
 
 <!--
 **LucasGuerraCavalcante/LucasGuerraCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
