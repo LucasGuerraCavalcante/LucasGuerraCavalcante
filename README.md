@@ -13,7 +13,9 @@ Currently studying hard TypeScript and Node.Js.
 
 So far during my journey... 
 
-> 2020 -> Intern at Banco do Brasil - Angular 2 and Angular 8, JavaScript, TypeScript and MySQL (Front-end Development).
+> 2021 - > Junior Web Developer at Supera - React, JavaScript, TypeScript, Java, Spring Boot and SQL.
+ > 
+> 2020 -> Intern at Banco do Brasil - Angular JS and Angular, JavaScript, TypeScript and MySQL (Front-end Development).
  > 
 > 2019 -> Intern at CNPq - Python, R and MySQL.
  > 
