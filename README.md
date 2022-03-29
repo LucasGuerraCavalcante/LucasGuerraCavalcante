@@ -5,29 +5,6 @@
 
 ## Hi there 👋
 
-I'm Lucas, Computer Science student from Brasília, Brazil.
-
-Programming beginner, focused on improving myself every day. 
-
-Currently studying hard TypeScript and Node.Js.
-
-So far during my journey... 
-
-> 2021 - > Junior Web Developer at Supera - React, JavaScript, TypeScript, Java, Spring Boot and SQL.
- > 
-> 2020 -> Intern at Banco do Brasil - Angular JS and Angular, JavaScript, TypeScript and MySQL (Front-end Development).
- > 
-> 2019 -> Intern at CNPq - Python, R and MySQL.
- > 
-> 2018 -> Intern at Receita Federal  - Technical support.
- > 
-> 🎓 Computer Science student at UniCEUB.
- > 
-
-And of course, my repositories here on GitHub...
-
-## Here some stats
-
 ![stats01](https://github-readme-stats.vercel.app/api?username=LucasGuerraCavalcante&hide=contribs,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![stats02](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuerraCavalcante&layout=compact&langs_count=10&theme=dark&hide=jupyter%20notebook,html,css,scss)
