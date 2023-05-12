@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-Developer | Computer Science student | Working at BRF Consulting
+Developer | Bachelor's degree in Computer Science | Working at BRF Consulting
 
 ![stats01](https://github-readme-stats.vercel.app/api?username=LucasGuerraCavalcante&hide=contribs,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
