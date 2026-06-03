@@ -295,14 +295,6 @@ Bachelor's degree in Computer Science
 
 ---
 
-## 🐍 Contribution graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LucasGuerraCavalcante/LucasGuerraCavalcante/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">
