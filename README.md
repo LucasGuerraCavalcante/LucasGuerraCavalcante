@@ -68,116 +68,15 @@ Technical documentation
 
 ## 💼 Professional experience
 
-<table>
-  <tr>
-    <td width="32%" valign="top">
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-guerra-cavalcante-77703b193/">
+    <img src="https://img.shields.io/badge/Professional%20Experience-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Professional Experience on LinkedIn" />
+  </a>
+</p>
 
-### BRF Consulting
-
-**Developer**  
-Full-time · Current  
-Mar 2022 - Present
-
-  </td>
-  <td width="68%" valign="top">
-
-Current role focused on full-stack development for enterprise systems, Salesforce platforms, mobile applications, AI-powered products and data automation.
-
-**Main stacks:** Salesforce Apex, Visualforce, Lightning, SOQL, JavaScript, CSS, React Native, Expo, TypeScript, React, Vite, TailwindCSS, FastAPI, Supabase, Redis, OpenAI API, Python, Selenium, BeautifulSoup, Pandas, Snowflake.
-
-  </td>
-  </tr>
-  <tr>
-    <td width="32%" valign="top">
-
-### AICG (AiCG.com)
-
-**Full-stack Developer**  
-Contract · Remote  
-Feb 2025 - Oct 2025
-
-  </td>
-  <td width="68%" valign="top">
-
-Full-stack development with frontend focus for AI-powered web applications, media generation tools, chatbot/data management platforms, geospatial visualization and responsive corporate interfaces.
-
-**Main stacks:** Next.js, React, TypeScript, Remix, Vite, TailwindCSS, Zustand, Radix UI, React Flow, TipTap, Supabase, AWS S3, Payload CMS, Remotion, PostgreSQL, Prisma, OpenAI API, D3-geo, React Simple Maps.
-
-  </td>
-  </tr>
-  <tr>
-    <td width="32%" valign="top">
-
-### Supera Inovação em Tecnologia
-
-**Software Developer**  
-Contract  
-Mar 2021 - Mar 2022
-
-  </td>
-  <td width="68%" valign="top">
-
-Software development across frontend, backend and mobile projects, working in agile teams with SCRUM and Kanban, contributing to requirements analysis, implementation, bug fixing, optimization, testing and post-deployment support.
-
-**Main stacks:** TypeScript, JavaScript, Java, Spring Boot, Node.js, React, React Native, AngularJS, Next.js, MySQL.
-
-  </td>
-  </tr>
-  <tr>
-    <td width="32%" valign="top">
-
-### Banco do Brasil
-
-**IT Intern**  
-Internship  
-Nov 2019 - Nov 2021
-
-  </td>
-  <td width="68%" valign="top">
-
-Web development internship on a People Analytics platform for the Human Resources department, including new features, maintenance, frontend development and database procedures.
-
-**Main stacks:** TypeScript, JavaScript, Angular, AngularJS, Bootstrap, HTML, CSS, ECharts, MySQL.
-
-  </td>
-  </tr>
-  <tr>
-    <td width="32%" valign="top">
-
-### CNPq
-
-**IT Intern**  
-Internship  
-Jan 2019 - Nov 2019
-
-  </td>
-  <td width="68%" valign="top">
-
-Data analysis internship focused on reporting, data extraction, cleaning, exploratory analysis, statistical techniques and interactive dashboards for decision support.
-
-**Main stacks:** Python, R, NumPy, Pandas, Matplotlib, Power BI, Google Data Studio.
-
-  </td>
-  </tr>
-  <tr>
-    <td width="32%" valign="top">
-
-### Receita Federal
-
-**IT Intern**  
-Internship  
-Sep 2018 - Nov 2018
-
-  </td>
-  <td width="68%" valign="top">
-
-Technical support internship providing assistance with hardware, software, networks, equipment configuration, software installation and infrastructure-related troubleshooting.
-
-**Main areas:** Technical support, hardware, software, networks, infrastructure assistance, user support.
-
-  </td>
-  </tr>
-</table>
+<p align="center">
+  For a complete and updated overview of my professional background, work experience and career history, visit my LinkedIn profile.
+</p>
 
 ---
 
