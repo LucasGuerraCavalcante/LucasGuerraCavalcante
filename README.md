@@ -217,24 +217,45 @@ Bachelor's degree in Computer Science
 ## 📊 GitHub activity
 
 <p align="center">
-  <a href="https://github.com/LucasGuerraCavalcante?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
-  </a>
-  <a href="https://github.com/LucasGuerraCavalcante?tab=followers">
-    <img src="https://img.shields.io/github/followers/LucasGuerraCavalcante?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LucasGuerraCavalcante&theme=tokyo-night&hide_border=true&area=true&custom_title=Lucas%20Guerra%20Cavalcante%20Contribution%20Graph"
+    alt="Lucas Guerra Cavalcante GitHub activity graph"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-Active%20Developer-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Active Developer" />
-  <img src="https://img.shields.io/badge/Focus-Full--stack%20Development-0F172A?style=for-the-badge&logo=code&logoColor=white" alt="Full-stack Development" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=white" alt="Main stack" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGuerraCavalcante&theme=tokyonight"
+    alt="Lucas Guerra Cavalcante GitHub stats"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasGuerraCavalcante&theme=tokyonight&utcOffset=-3"
+    alt="Lucas Guerra Cavalcante productive time"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LucasGuerraCavalcante">
-    <img src="https://img.shields.io/badge/GitHub-LucasGuerraCavalcante-181717?style=for-the-badge&logo=github&logoColor=white" alt="LucasGuerraCavalcante GitHub profile" />
-  </a>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasGuerraCavalcante&theme=tokyonight"
+    alt="Lucas Guerra Cavalcante top languages by repository"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasGuerraCavalcante&theme=tokyonight"
+    alt="Lucas Guerra Cavalcante top languages by commit"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasGuerraCavalcante&theme=tokyonight"
+    alt="Lucas Guerra Cavalcante GitHub profile summary"
+  />
 </p>
 
 ---
