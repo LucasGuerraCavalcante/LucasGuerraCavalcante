@@ -217,23 +217,24 @@ Bachelor's degree in Computer Science
 ## 📊 GitHub activity
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=LucasGuerraCavalcante&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGuerraCavalcante&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css,scss"
-    alt="Top languages"
-  />
+  <a href="https://github.com/LucasGuerraCavalcante?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/LucasGuerraCavalcante?tab=followers">
+    <img src="https://img.shields.io/github/followers/LucasGuerraCavalcante?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=LucasGuerraCavalcante&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-  />
+  <img src="https://img.shields.io/badge/Profile-Active%20Developer-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Active Developer" />
+  <img src="https://img.shields.io/badge/Focus-Full--stack%20Development-0F172A?style=for-the-badge&logo=code&logoColor=white" alt="Full-stack Development" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=white" alt="Main stack" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/LucasGuerraCavalcante">
+    <img src="https://img.shields.io/badge/GitHub-LucasGuerraCavalcante-181717?style=for-the-badge&logo=github&logoColor=white" alt="LucasGuerraCavalcante GitHub profile" />
+  </a>
 </p>
 
 ---
