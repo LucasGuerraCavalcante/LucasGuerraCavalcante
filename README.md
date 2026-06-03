@@ -219,7 +219,7 @@ Bachelor's degree in Computer Science
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=LucasGuerraCavalcante&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=LucasGuerraCavalcante&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub stats"
   />
   <img
@@ -231,7 +231,7 @@ Bachelor's degree in Computer Science
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=LucasGuerraCavalcante&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=LucasGuerraCavalcante&theme=tokyonight&hide_border=true"
     alt="GitHub streak"
   />
 </p>
