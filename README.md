@@ -23,24 +23,13 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+## 👨‍💻 Professional profile
 
-<p align="center">
-  Full-stack Developer at <strong>BRF Consulting</strong>, based in Brazil, with a Bachelor's degree in Computer Science from <strong>UniCEUB</strong>.
-  Experienced in Salesforce enterprise systems, web and mobile applications, AI-powered platforms, backend integrations, automation and data workflows.
-</p>
+Full-stack Developer at **BRF Consulting**, based in Brazil, with a Bachelor's degree in Computer Science from **UniCEUB**. I work across Salesforce enterprise systems, web and mobile applications, AI-powered platforms, backend integrations, automation and data workflows.
 
-<p align="center">
-  <strong>Tech:</strong>
-  Salesforce, Apex, Visualforce, Lightning, SOQL, TypeScript, JavaScript, React, Next.js, React Native, Node.js, Python, FastAPI, Java, Spring Boot, PostgreSQL, MySQL, Supabase, Redis, Snowflake, AWS, Docker and OpenAI API.
-</p>
+**Technologies:** Salesforce, Apex, Visualforce, Lightning, SOQL, TypeScript, JavaScript, React, Next.js, React Native, Node.js, Python, FastAPI, Java, Spring Boot, PostgreSQL, MySQL, Supabase, Redis, Snowflake, AWS, Docker and OpenAI API.
 
-<p align="center">
-  <strong>Focus:</strong>
-  Full-stack development, frontend architecture, REST APIs, business logic, authentication, enterprise workflows, mobile field services, RPA, web scraping, data processing, CMS, dashboards and AI integrations.
-</p>
+**Focus:** full-stack development, frontend architecture, REST APIs, business logic, authentication, enterprise workflows, mobile field services, RPA, web scraping, data processing, CMS, dashboards and AI integrations.
 
 ---
 
